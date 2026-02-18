@@ -1,5 +1,14 @@
 # Prompts do Agente
 
+[!TIP]
+>**Prompt sugerido para esta etapa:**
+> ```
+> Crie um system prompt para um Agente chamado [nome do Agente], [contexto do seu Agente].
+> [Listar as regras do seu Agente].
+> Inclua 3 exemplos de interação e 2 edge cases.
+>
+> [Cole o template 03-prompts.md para ser usado como base]
+
 ## System Prompt
 
 ```
